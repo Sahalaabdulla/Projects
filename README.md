@@ -13,8 +13,7 @@
 ### Project Overview
 --- 
 
-The HR department monitors and manages various aspects of employee data to ensure the organization maintains a healthy workforce. This data analysis project aims to provide insights to the HR department by analyzing various aspects of HR data to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance.
-
+The HR department monitors and manages various aspects of employee data to ensure the organization maintains a healthy workforce. This data analysis project aims to provide insights to the HR department to help a company understand the attrition rate, based on which necessary actions could be taken to retain employees for a longer period. 
 ### Data Sources
 
 The data set contains detailed information about the various employee aspects.
@@ -26,7 +25,7 @@ SQL Server- Write SQL queries and create a test document to QA the **HR ANALYTIC
 
 ### Exploratory Data Analysis
 
-EDA involved exploring the HR data to show the trend of attrition rate in the company concerning age, gender, department, and education that will help them take appropriate measures to increase the company's performance.
+EDA involved exploring the HR data to show the trend of attrition rate in the company concerning age, gender, department, and education, which will help them take appropriate measures to increase the company's performance.
 
 [Tableau Dashboard](https://public.tableau.com/views/HRAnalyticsDashboard_17106862778150/HRANALYTICSDASHBOARD?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 
@@ -36,7 +35,18 @@ EDA involved exploring the HR data to show the trend of attrition rate in the co
 
 ### Results and Findings
 
+1. The overall attrition rate of the company has been 16.12%, with the sales department having a higher attrition rate, followed by HR and R&D departments.
+2. Employees within 25-34 age group are leaving the company at higher rates, particularly among Males.
+3. Employees from educational background Life Science and Medical are leaving the company more.
 
 ### Recommendations
 
+- Concerns related to attrition of employees should be effectively considered in each department.
+- Employee engagement programs can be implemented to tailor retention strategies accordingly.
+- Some targeted HR policies and programs should be implemented to engage people within the specific age group.
+- Some skills upscaling programs can be conducted to retain employees from different educational backgrounds.
 
+### Reference
+
+Data Analyst Portfolio Project by Data Tutorials 
+[View here](https://www.youtube.com/watch?v=jF2uIluPojw&list=WL&index=2) 
