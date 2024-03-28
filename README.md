@@ -19,7 +19,7 @@ SQL Server- Write SQL queries and create a test document to QA the **HR ANALYTIC
 EDA involved exploring the HR data to show the trend of attrition rate in the company concerning age, gender, department, and education that will help them take appropriate measures to increase the company's performance.
 
 #### Tableau Dashboard
-    - [View here](https://public.tableau.com/app/profile/sahala.abdulla/viz/HRAnalyticsDashboard_17106862778150/HRANALYTICSDASHBOARD?publish=yes)
+    - [HR Analytics Dashboard](https://public.tableau.com/views/HRAnalyticsDashboard_17106862778150/HRANALYTICSDASHBOARD?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 
 #### SQL Queries- 
 
