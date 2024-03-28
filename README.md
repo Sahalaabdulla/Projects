@@ -21,7 +21,7 @@ EDA involved exploring the HR data to show the trend of attrition rate in the co
 #### Tableau Dashboard
     - [View here](https://public.tableau.com/app/profile/sahala.abdulla/viz/HRAnalyticsDashboard_17106862778150/HRANALYTICSDASHBOARD?publish=yes)
 
-### SQL Queries- 
+#### SQL Queries- 
 
 
 
