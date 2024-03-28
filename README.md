@@ -1,5 +1,15 @@
 # HR Database Analysis
 
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Results and Findings](#results-and-findings)
+- [Recommendations](#recommendations)
+
+
+  
 ### Project Overview
 --- 
 
@@ -23,4 +33,10 @@ EDA involved exploring the HR data to show the trend of attrition rate in the co
 [SQL Queries](https://github.com/Sahalaabdulla/Projects/blob/e002fb2948efa46e3d27c25f0df8b9e05f0aa029/Tableau%20Portfolio%20Project%20SQL%20Queries.sql)
 
 [SQL test document for Tableau](https://github.com/Sahalaabdulla/Projects/blob/661d6c20b15168c4e9c8809694a68fb8f1585deb/SQL%20Test%20Document_Tableau.docx)
+
+### Results and Findings
+
+
+### Recommendations
+
 
