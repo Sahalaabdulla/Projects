@@ -20,8 +20,8 @@ The data set contains detailed information about the various employee aspects.
 
 ### Tools 
 
-Tableau- Creating visualizations
-SQL Server- Write SQL queries and create a test document to QA the **HR ANALYTICS DASHBOARD** developed in Tableau Desktop
+-Tableau- Creating visualizations
+-SQL Server- Write SQL queries and create a test document to QA the **HR ANALYTICS DASHBOARD** developed in Tableau Desktop
 
 ### Exploratory Data Analysis
 
