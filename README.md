@@ -25,7 +25,18 @@ SQL Server- Write SQL queries and create a test document to QA the **HR ANALYTIC
 
 ### Exploratory Data Analysis
 
-EDA involved exploring the HR data to show the trend of attrition rate in the company concerning age, gender, department, and education, which will help them take appropriate measures to increase the company's performance.
+EDA involved exploring the HR data to show the trend of attrition rate in the company concerning age, gender, department, and education, which will help them take appropriate measures to decrease the attrition rate and increase the company's performance. The following problem statements are explored in this analysis:
+- Employee Count
+- Attrition Count
+- Attrition Rate
+- Active Employees
+- Average Age
+- Attrition by Gender
+- Department-wise Attrition
+- Number of Employees by Age Group
+- Job satisfaction Ratings
+- Education Field-wise Attrition
+- Attrition Rate by Gender for Different Age Group
 
 [Tableau Dashboard](https://public.tableau.com/views/HRAnalyticsDashboard_17106862778150/HRANALYTICSDASHBOARD?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 
@@ -44,7 +55,7 @@ EDA involved exploring the HR data to show the trend of attrition rate in the co
 - Concerns related to attrition of employees should be effectively considered in each department.
 - Employee engagement programs can be implemented to tailor retention strategies accordingly.
 - Some targeted HR policies and programs should be implemented to engage people within the specific age group.
-- Some skills upscaling programs can be conducted to retain employees from different educational backgrounds.
+- Skills upscaling programs can be conducted to retain employees from different educational backgrounds.
 
 ### Reference
 
